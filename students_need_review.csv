@@ -1,0 +1,22 @@
+﻿Student_ID,Name,Email,Phone,Course,Fee_Paid,City,Enrolled_Date,Review_Reason
+STU1001,manoj k,manojk@gmail,9876543210,python,yes,Chennai,23-05-2025,Invalid email
+STU1003,ravi kumar,ravikumar@,9123456789,python,YES,MADURAI,19-02-2025,Invalid email
+STU1005,KARTHIK,karthik123,,Python,Yes,,08-02-2025,Invalid email
+STU1007,SURESH T,suresht@,7654321098,Python,no,TRICHY,14-01-2025,Invalid email
+STU1009,RAJESH KK,rajeshkk@gmail,8877665544,PYTHON,yes,Coimbatore,15-05-2025,Invalid email
+STU1012,MEENA D,meenad@,,ML,yes,salem,21-02-2025,Invalid email
+STU1014,LAKSHMI,lakshmi@gmail,8811223344,data science,yes,CHENNAI,07-03-2025,Invalid email
+STU1017,DINESH R,dinesh.r@,8080808080,Data Science,YES,Madurai,23-02-2025,Invalid email
+STU1019,BALA K,balak@gmail,7070707070,Machine Learning,No,SALEM,12-06-2025,Invalid email
+STU1022,GEETHA,geetha@,9393939393,DATA SCIENCE,no,COIMBATORE,08-05-2025,Invalid email
+STU1025,senthil k,senthilk@gmail,,PYTHON,NO,TRICHY,15-05-2025,Invalid email
+STU1027,RAMESH M,rameshm@,7878787878,Python,Yes,Chennai,01-03-2025,Invalid email
+STU1029,GOPAL V,gopalv@yahoo,9010101010,python,yes,coimbatore,12-01-2025,Invalid email
+STU1032,SWETHA L,swethal@,,data science,yes,CHENNAI,26-05-2025,Invalid email
+STU1035,karthi p,karthip@gmail,7565656565,PYTHON,yes,COIMBATORE,14-02-2025,Invalid email
+STU1037,VENKAT R,venkatr@,8787878787,python,no,TRICHY,12-02-2025,Invalid email
+STU1040,dharani s,dharanis@gmail,7909090909,data science,NO,,19-04-2025,Invalid email
+STU1042,PADMA V,padmav@,9121212121,PYTHON,Yes,coimbatore,22-03-2025,Invalid email
+STU1045,selvam k,selvamk@gmail,8343434343,Machine Learning,YES,SALEM,28-02-2025,Invalid email
+STU1047,GANESH P,ganeshp@,7565656565,Python,yes,Chennai,27-06-2025,Invalid email
+STU1049,SURESH B,sureshb@yahoo,,Python,NO,madurai,20-04-2025,Invalid email
